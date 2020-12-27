@@ -1,4 +1,4 @@
-# k6mtv.org Source Code
+# K6MTV Website Source Code
 
 This repository contains the Hugo source code and static assets for the k6mtv.org website.
 
