@@ -1,0 +1,35 @@
+{{ $newevents := dict -}}
+{{ range $.Site.Data.calendar.events -}} 
+  {{ $time := printf "%sT08:00:00" .date | time -}}
+  {{ $monthindex := printf "%d" $time.Month -}}
+  {{ $newevent := dict (printf "%s-%s-%s" .date .time .name) (merge . (dict "month" $monthindex)) -}}
+  {{ $newevents = merge $newevents $newevent -}}
+{{ end -}}
+{{ $newevents = sort $newevents -}}
+
+{{ range $monthindex := seq 12 -}}
+  <table class="calendar">
+    <caption>{{ dateFormat "January" (printf "2001-%02d-01" $monthindex) }}</caption>
+    {{ range (where $newevents "month" (string $monthindex)) -}}
+      <tr class="event-type-{{ .type }}">
+        <td>{{ dateFormat "Mon Jan 02" .date }}</td><td>{{ .time }}</td>
+        <td>
+          {{- if isset . "link" -}}
+          <a href="{{ .link }}">{{ .name | emojify | markdownify }}</a>
+          {{ else }}
+            {{ .name | markdownify | emojify }}
+          {{ end -}}
+          {{ with .update -}}
+            {{- if eq (substr . 0 9 | upper) "CANCELLED" -}}
+              <span class="event-cancelled"> {{ . }} </span>
+            {{- else if eq (substr . 0 3 | upper) "NEW" -}}
+              <span class="event-new"> {{ . }} </span>
+            {{- else -}}
+              <span class="event-update"> {{ . }} </span>
+            {{- end -}}
+          {{- end -}}
+        </td>
+      </tr>
+    {{- end -}}
+  </table>
+{{- end -}}

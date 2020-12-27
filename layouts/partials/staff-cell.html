@@ -1,0 +1,7 @@
+<td>
+    {{ .title }}</br>
+    <a href="mailto:{{ .email }}">{{ .name }}{{ with .call }}, {{ . }}{{ end }}</a>
+</td>
+<td>
+    <img src="{{ .photo }}" width=78>
+</td>

@@ -1,0 +1,6 @@
+{{ with .Get "float" }}<div style="float:{{.}};" >{{ end }}
+    <figure class="k6mtv-figure">
+        <img src="{{ .Get "src" }}"{{ with .Get "width"}} width="{{ . }}"{{ end }} />
+        {{ with .Get "caption" }}<figcaption><small><i>{{ . }}</i></small></figcaption>{{ end }}
+    </figure>
+    {{ if .Get "float" }}</div>{{ end }}

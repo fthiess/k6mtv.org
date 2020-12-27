@@ -1,0 +1,3 @@
+{{/* We require height to be specified because there's no easy way to automatically set
+     the iframe height if the source comes from a different site.  */}}
+<iframe src="{{ .Get "src" }}" style="width: 100%; height: {{ .Get "height" }}; border:0;"></iframe>

@@ -1,0 +1,234 @@
+/*
+Custom CSS for k6mtv.org website
+*/
+
+/* Fonts we use that aren't used by the underlying theme */
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:400,400i,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700");
+
+/* Override the theme's normal font selection
+   Open Sans -> Roberto Slab */
+body main {
+	margin: 0;
+	font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: hsl(0, 0%, 19%);
+	line-height: 1.6;
+	word-wrap: break-word;
+	background: hsl(0, 0%, 97%);
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Pin the header in place so it stays in place during scrolling
+   This works, but the side menu is positioned wrong, and the body text needs more
+   vertical space below the header before it starts */
+/* header__container { */
+header.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  /* position: sticky;
+  top: 0;
+  z-index: 100; */
+}
+
+/* .header {
+  height: 100%;
+  /* position: static; */
+} */
+
+
+/* Try to get captions to align with their figures */
+.k6mtv-figure {
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+  margin: 1rem;
+  }
+
+/* Make the titles of posts in lists of posts look like the links they are */
+/* TODO: Figure out how to make the template code work in CSS */
+/* {{- $highlightColor := .Site.Params.highlightColor | default "#e22d30" -}}  */
+header.list__header a {
+  /* color: {{ $highlightColor }} */
+  color: hsl(233.2, 76%, 53%);
+}
+
+
+/* Styling for the calendar page */
+
+.calendar {
+  table-layout: fixed;
+}
+
+.calendar caption {
+  font-size: 18px;
+  font-weight: bold;
+  text-align:left;
+  table-layout: fixed;
+}
+
+.calendar td {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  color: hsl(0, 0%, 0%);
+  padding: 5px 10px;
+  border: 1px solid hsl(0, 0%, 46%);
+}
+
+/* Time and Date columns */
+.calendar td:nth-child(1),
+.calendar td:nth-child(2) {
+  font-family: "Roboto Mono", Helvetica, Arial, sans-serif;
+  text-align: center;
+  width: 7rem;
+  white-space: nowrap;
+}
+
+/* Name column */
+.calendar td:nth-child(3) {
+  width: 80%;
+}
+
+/* Format lines in calendar differently based on event type */
+.calendar .event-type-city,
+.calendar .event-type-mtv {
+  background-color: hsl(147, 100%, 85%);
+}
+
+.calendar .event-type-county {
+  background-color: hsl(217, 100%, 85%);
+}
+
+.calendar .event-type-cert {
+  background-color: hsl(343, 100%, 85%);
+}
+
+.calendar .event-type-react {
+  background-color: hsl(36, 100%, 85%);
+}
+
+/* Formatting of update information */
+.calendar .event-cancelled {
+  font-weight: bold;
+  color: hsl(356, 90%, 40%);
+}
+
+.calendar .event-new {
+  font-weight: bold;
+  color: hsl(125, 90%, 40%);
+}
+
+.calendar .event-update {
+  font-weight: bold;
+  color: hsl(23, 90%, 40%);
+}
+
+
+/* Don't display empty header rows */
+/* TODO: Work in progress; doesn't work like this. Empty header row is still there */
+thead:empty {
+  display:none;
+}
+
+/* 
+  Automatically add type icons next to links going to particular types of content.
+  Icons from www.freeicons.io:
+    zip, mp3, pdf, exe, csv, doc, ppt, xls, avi, mp4, gdrive, youtube by Icon King https://freeicons.io/profile/3
+    External Link by Raj Dev https://freeicons.io/profile/714
+    Github by Fasil https://freeicons.io/profile/722
+*/
+
+a[target="_blank"]::after {
+  content: url(icon-external-link.svg);
+  display: inline-block;
+  margin-left: 0.5em;
+  width: 1em;
+  height: 1em;
+}
+
+a[href$=".pdf"]::after {
+  content: url(icon-pdf.svg);
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+
+a[href$=".xls"]::after,
+a[href$=".xlsx"]::after {
+  content: url(icon-xls.svg);
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+
+a[href$=".ppt"]::after,
+a[href$=".pptx"]::after {
+  content: url(icon-ppt.svg);
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+
+a[href$=".doc"]::after,
+a[href$=".docx"]::after {
+  content: url(icon-doc.svg);
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+
+a[href$=".mp3"]::after {
+  content: url(icon-mp3.svg);
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+a[href$=".exe"]::after {
+  content: url(icon-exe.svg);
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+
+a[href$=".csv"]::after {
+  content: url(icon-csv.svg);
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+
+a[href^="https://drive.google.com"]::after,
+a[href^="https://docs.google.com"]::after {
+  content: url(icon-gdrive.svg);
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+
+a[href^="https://youtube.com"]::after,
+a[href^="https://youtu.be"]::after {
+  content: url(icon-youtube.svg);
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+

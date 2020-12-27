@@ -1,0 +1,14 @@
+{{ if .Site.Menus.links }}
+<div class="widget-links widget">
+	<h4 class="widget__title">Useful Links</h4>
+	<nav class="widget__content">
+		<ul class="widget__list">
+			{{ range .Site.Menus.links }}
+			<li class="widget__item">
+				<a class="widget__link" href="{{ .URL }}" target="_blank">{{ .Name }}</a>
+			</li>
+			{{ end }}
+		</ul>
+	</nav>
+</div>
+{{ end }}

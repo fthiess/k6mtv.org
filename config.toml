@@ -1,0 +1,65 @@
+# Hugo site config file; this config is based on the Mainroad theme
+
+baseurl = "http://k6mtv.broadsky.net/"
+title = "ARES/RACES of Mountain View, CA"
+languageCode = "en-us"
+paginate = "3" # Number of posts per page on list pages
+theme = "mainroad"
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author] # Used in authorbox
+  name = ""
+  bio = ""
+  avatar = "img/avatar.png"
+
+[Params]
+  subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
+  description = "ARES/RACES of Mountain View, CA" # Site description. Used in meta description
+  copyright = "ARES/RACES of Mountain View, CA" # Footer copyright holder, otherwise will use site title
+  opengraph = false # Enable OpenGraph if true
+  schema = false # Enable Schema
+  # twitter_cards = true # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  # authorbox = true # Show authorbox at bottom of pages if true
+  # toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["author", "date", "categories"] # Order of post meta information
+  mainSections = ["news", "photos", "sk"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "January 1, 2006" # Change the format of dates
+  highlightColor = "hsl(233.2, 76%, 53%)" # Override highlight color (default is #e22d30)
+  customCSS = ["css/k6mtv.css"] # Include custom CSS files
+  # customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.logo]
+  image = "ares-logo.svg"
+#   title = "Mainroad" # Logo title, otherwise will use site title
+  subtitle = "Training for and Providing Emergency Communications" # Logo subtitle
+
+[Params.sidebar]
+  # Configure layout for different types of page ("left", "right", or false)
+  home = "right"
+  list = false
+  single = false
+
+  widgets = [] # All pages will have search widget enabled; individual pages can add others
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[[Menus.links]]
+  Name = "Net Control Signup"
+  URL = "/net-signup"
+
+[[Menus.links]]
+  Name = "Santa Clara County ARES/RACES"
+  URL = "http://scc-ares-races.org"
+
+[[Menus.links]]
+  Name = "SCCo ARES/RACES Training Schedule"
+  URL = "https://www.scc-ares-races.org/activities/events.php"
+
+[deployment]
+[[deployment.targets]]
+name = "gcs"
+URL = "gs://k6mtv.broadsky.net"

@@ -1,0 +1,21 @@
+<table>
+  {{ $first := 0 -}}
+  {{- range $.Site.Data.people.staff -}}
+    {{- if $first -}}
+      <tr>
+        {{ partial "staff-cell.html" $first -}}
+        {{ partial "staff-cell.html" . -}}
+      </tr>
+      {{ $first = 0 -}}
+    {{- else -}}
+      {{- $first = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $first -}}
+    <tr>
+      {{ partial "staff-cell.html" $first }}
+      <td></td>
+      <td></td>
+    </tr>
+  {{- end -}}
+</table>

@@ -1,0 +1,75 @@
+# Data for generating a grid of MTV ARES/RACES staff members
+# Written in YAML as a list, ordered by display sequence, whose members are dictionaries
+
+staff:
+  - call: KK6EKN
+    title: Mtn View ARES Emergency Coordinator
+    name: Leslie Grimm
+    email: kk6ekn@arrl.net
+    photo: grimm.jpg
+
+  - call: ""
+    title: City of Mtn View OES Coordinator
+    name: Bob Maitland
+    email: robert.maitland@mountainview.gov
+    photo: maitland.jpg
+
+  - call: W6OWI
+    title: Assistant Emergency Coordinator
+    name: Rudy Bahr
+    email: bahrjunior@comcast.net
+    photo: bahr.jpg
+
+  - call: KJ6AMM
+    title: Assistant Emergency Coordinator
+    name: Paul Goldstein
+    email: paul_goldstein@comcast.net
+    photo: goldstein.jpg
+
+  - call: KF6ZSQ
+    title: Assistant Emergency Coordinator
+    name: Phil Henderson
+    email: paul_goldstein@comcast.net
+    photo: henderson.jpg
+
+  - call: AE6EO
+    title: Assistant Emergency Coordinator
+    name: David Platt
+    email: dplatt@radagast.org
+    photo: platt.jpg
+
+  - call: KI6PUR
+    title: Assistant Emergency Coordinator
+    name: Rick Van Mell
+    email: vanmells@ix.netcom.com
+    photo: vanmell.jpg
+
+  - call: K6FSH
+    title: Assistant Emergency Coordinator
+    name: Bob Fishman
+    email: fish810@yahoo.com
+    photo: fishman.jpg
+
+  - call: N6IHT
+    title: Assistant Emergency Coordinator
+    name: Mike Kutner
+    email: kutner@stanfordalumni.org
+    photo: kutner.jpg
+
+  - call: KZ6DM
+    title: Assistant Emergency Coordinator
+    name: Poul Hansen
+    email: poul.erik@hansenca.com
+    photo: hansen.jpg
+
+  - call: AJ6JN
+    title: Assistant Emergency Coordinator
+    name: Forrest Thiessen
+    email: fthiess@gmail.com
+    photo: thiessen.jpg
+
+  - call: WU6K
+    title: Assistant Emergency Coordinator
+    name: Jim Weatherford
+    email: repoma6103@aol.com
+    photo: weatherford.jpg
