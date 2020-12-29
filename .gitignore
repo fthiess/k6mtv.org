@@ -1,0 +1,6 @@
+# Keep the public directory in the repository, but not it's contents.
+# public/ is where Hugo writes it's output; it's not part of the site source code
+public/*
+
+# Don't include EMACS backup files
+*~
