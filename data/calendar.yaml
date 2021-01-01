@@ -34,496 +34,234 @@
 
 
 events:
-    -
-        name: County---Field Operations Type III, Part A
-        type: county
-        date: 2020-01-04
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=963
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-01-08
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-        update: CANCELLED
-    -
-        name: SPECS General Meeting
-        type: other
-        date: 2020-01-11
-        time: 0900-1200
-        link: https://www.specsnet.org/events
-    -
-        name: MTV---Antenna party
-        type: city
-        date: 2020-01-18
-        time: 1000-1200
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-01-21
-        time: 2030-2115
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1002
-    -
-        name: County---Santa Clara County EOC Orientation
-        type: county
-        date: 2020-01-22
-        time: 1000-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1016
-    -
-        name: County---Net Control - Type III, Part A
-        type: county
-        date: 2020-02-01
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=965
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-02-05
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-    -
-        name: CERT Refresher---CERT Tools for Leadership Success
-        type: cert
-        date: 2020-02-06
-        time: 1900-2100
-        link: https://www.eventbrite.com/e/cert-refresher-tools-for-leadership-success-tickets-74210875727
-    -
-        name: County---Field Operations Type III, Type II
-        type: county
-        date: 2020-02-08
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=964
-    -
-        name: County---Introduction to Emergency Communications - Cupertino
-        type: county
-        date: 2020-02-08
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=988
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-02-18
-        time: 2030-2115
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1020
-    -
-        name: MTV/County---ARES/RACES Communications Drill
-        type: city
-        date: 2020-02-22
-        time: 1000-1300
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1027
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-03-04
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-    -
-        name: CERT Academy 2020-S (Spanish) March 7 and 14
-        type: cert
-        date: 2020-03-07
-        time: 0800-1800
-        update: CANCELLED
-    -
-        name: County---Net Control - Type III, Part B
-        type: county
-        date: 2020-03-07
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=966
-        update: CANCELLED
-    -
-        name: County---Fundamentals of Emergency Communications, Cupertino
-        type: county
-        date: 2020-03-14
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=989
-        update: CANCELLED
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-03-17
-        time: 2030-2115
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1031
-    -
-        name: County---Pop-Up Net Control Practice
-        type: county
-        date: 2020-03-21
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1013
-        update: CANCELLED
-    -
-        name: HospitalNet---Statewide Medical Health Exercise (SWMHE)
-        type: hospital
-        date: 2020-03-25
-        time: "0800"
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=877
-        update: CANCELLED
-    -
-        name: MTV---Packet Lite Class
-        type: city
-        date: 2020-03-28
-        time: 0900-1200
-        update: CANCELLED
-    -
-        name: County---Santa Clara County EOC Orientation
-        type: county
-        date: 2020-04-01
-        time: 1000-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1017
-        update: CANCELLED
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-04-01
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-        update: CANCELLED
-    -
-        name: CERT Academy 2020-1 Tue & Thu nights, finish Saturday Feb 18
-        type: cert
-        date: 2020-04-02
-        time: 1830-2130
-        link: https://www.eventbrite.com/e/mountain-view-community-emergency-response-team-cert-academy-2020-1-tickets-60472097672
-        update: CANCELLED
-    -
-        name: County---Net Control - Type II
-        type: county
-        date: 2020-04-04
-        time: 0900-1000
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=967
-        update: CANCELLED
-    -
-        name: County---Repeater Sprint Contest and Practice
-        type: county
-        date: 2020-04-04
-        time: 1000-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1040
-        update: 
-    -
-        name: County---Special Edition Message Passing Practice Net
-        type: county
-        date: 2020-04-04
-        time: 1300-1345
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1039
-    -
-        name: CERT Refresher---CERT Terrorism Awareness
-        type: cert
-        date: 2020-04-18
-        time: 0900-1200
-        link: https://www.eventbrite.com/e/cert-refresher-terrorism-awareness-tickets-74211375221
-        update: CANCELLED
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-04-21
-        time: 2030-2115
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1036
-    -
-        name: REACT/ARES---MTV City Parade, Castro St.
-        type: react
-        date: 2020-04-25
-        time: 0800-1100
-        link: http://www.blackberryreact.org/new1/events.shtml
-        update: CANCELLED
-    -
-        name: MTV---No monthly class in April
-        type: city
-        date: 2020-04-25
-        time: 1000-1200
-    -
-        name: County---Message Passing - Tabletop
-        type: county
-        date: 2020-05-02
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=968
-        update: CANCELLED
-    -
-        name: REACT---MTV Art & Ala Carte
-        type: react
-        date: 2020-05-02
-        time: 1800-2000
-        link: http://www.blackberryreact.org/new1/events.shtml
-        update: CANCELLED
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-05-06
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-        update: CANCELLED
-    -
-        name: MTV---ARES/CERT Drill
-        type: city
-        date: 2020-05-09
-        time: 1300-1700
-        update: CANCELLED
-    -
-        name: CERT Academy 2020-2 Tue & Thu nights, finish Saturday May 30
-        type: cert
-        date: 2020-05-14
-        time: 1830-2130
-        link: https://www.eventbrite.com/e/mountain-view-community-emergency-response-team-cert-academy-2020-2-tickets-74205088417
-        update: CANCELLED
-    -
-        name: MTV/County---ARES/RACES Communications Drill
-        type: city
-        date: 2020-05-16
-        time: 1000-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1046
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-05-19
-        time: 2030-2115
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1044
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-06-03
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-        update: CANCELLED
-    -
-        name: County---Event Planning Table Top
-        type: county
-        date: 2020-06-06
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=969
-        update: CANCELLED
-    -
-        name: County---Field Packet Mini-Drill
-        type: county
-        date: 2020-06-13
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1019
-    -
-        name: County---Pop-Up Packet Practice
-        type: county
-        date: 2020-06-13
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1012
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-06-16
-        time: 2030-2115
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1052
-    -
-        name: County---Fundamentals of Emergency Comm (Zoom)
-        type: county
-        date: 2020-06-24
-        time: 1800-2100
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1055
-    -
-        name: MTV---K6MTV Station Operation
-        type: city
-        date: 2020-06-27
-        time: 1000-1200
-        update: CANCELLED
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-07-01
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-        update: CANCELLED
-    -
-        name: County---Fundamentals of Emergency Comm (Zoom)
-        type: county
-        date: 2020-07-08
-        time: 1800-2100
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=991
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-07-21
-        time: 2030-2115
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1056
-    -
-        name: County---Packet Operations Type III, Part A (Zoom)
-        type: county
-        date: 2020-08-01
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=970
-        update: Changed Location
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-08-05
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-    -
-        name: County---RDF Search and Locate Mini-drill
-        type: county
-        date: 2020-08-08
-        time: 0830-1230
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1034
-        update: CANCELLED
-    -
-        name: County---Field Operations Type III, Part A
-        type: county
-        date: 2020-08-15
-        time: 0900-1215
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1048
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-08-18
-        time: 2030-2115
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1060
-    -
-        name: MTV/County---ARES/RACES Communications Drill
-        type: city
-        date: 2020-08-22
-        time: 1000-1200
-    -
-        name: CERT Refresher---Medical Treatment
-        type: cert
-        date: 2020-08-27
-        time: 1900-2100
-        link: https://www.eventbrite.com/e/cert-refresher-first-aidmedical-treatment-tickets-74211814535
-        update: CANCELLED
-    -
-        name: County---Field Operations Type III, Part B and Type II
-        type: county
-        date: 2020-08-29
-        time: 0900-1215
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1049
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-09-02
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-    -
-        name: REACT---MTV Art & Wine Festival, Sep 5-6
-        type: react
-        date: 2020-09-05
-        time: 1000-1800
-        link: http://www.blackberryreact.org/new1/events.shtml
-        update: CANCELLED
-    -
-        name: County---Shadowing - Type III
-        type: county
-        date: 2020-09-12
-        time: 0900-1215
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=973
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-09-15
-        time: 2030-2115
-    -
-        name: County---Cross-Band Repeating / Antenna Fundamentals
-        type: county
-        date: 2020-09-19
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=974
-    -
-        name: REACT---Trailblazer Race/Walk
-        type: react
-        date: 2020-09-27
-        time: 0700-1200
-        link: http://www.blackberryreact.org/new1/events.shtml
-    -
-        name: CERT Academy 2020-3 Tue & Thu nights, finish Saturday Oct 17
-        type: cert
-        date: 2020-10-01
-        time: 1830-2130
-        link: https://www.eventbrite.com/e/mountain-view-community-emergency-response-team-cert-academy-2020-3-tickets-74202370287
-        update: CANCELLED
-    -
-        name: County---Packet Operations Type III, Part B (Zoom)
-        type: county
-        date: 2020-10-03
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=971
-        update: Changed Location
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-10-07
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-    -
-        name: (Simulated) Masked Pumpkin Festival Parade
-        type: county
-        date: 2020-10-10
-        time: 1900-2100
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1066
-    -
-        name: County---Introduction to Emergency Communications (1000 Villa)
-        type: county
-        date: 2020-10-14
-        time: 1800-2130
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1009
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-10-20
-        time: 2030-2115
-    -
-        name: MTV---Message Passing Refresher for ARES & CERT
-        type: city
-        date: 2020-10-24
-        time: 1000-1200
-        update: CANCELLED
-    -
-        name: CERT Refresher---Action Planning
-        type: cert
-        date: 2020-11-04
-        time: 1900-2100
-        link: https://www.eventbrite.com/e/cert-refresher-action-planning-tickets-74211995075
-        update: CANCELLED
-    -
-        name: REACT Meeting
-        type: react
-        date: 2020-11-04
-        time: 1900-2100
-        link: http://www.blackberryreact.org/new1/meetings.shtml
-    -
-        name: County---Packet Operations Type II - Adv (Sunnyvale)
-        type: county
-        date: 2020-11-07
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=972
-    -
-        name: MTV---ARES/CERT Drill
-        type: city
-        date: 2020-11-14
-        time: 1300-1700
-        update: CANCELLED
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-11-17
-        time: 2030-2115
-    -
-        name: County---Fundamentals of Emergency Comm (1000 Villa)
-        type: county
-        date: 2020-11-18
-        time: 1800-2130
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1010
-    -
-        name: HospitalNet---Statewide Medical Health Exercise (SWMHE)
-        type: hospital
-        date: 2020-11-19
-        time: "0800"
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=976
-    -
-        name: REACT---Annual Dinner
-        type: react
-        date: 2020-12-05
-        time: 1800
-        link: http://www.blackberryreact.org/new1/events.shtml
-    -
-        name: County---2020 End of Year Summary (55 W Younger)
-        type: county
-        date: 2020-12-12
-        time: 0900-1200
-        link: https://www.scc-ares-races.org/activities/eventdetail.php?id=975
-    -
-        name: County---Training Net - Message Passing Practice
-        type: county
-        date: 2020-12-15
-        time: 2030-2115
+-
+    name: SPECS General Meeting (Zoom)
+    type: other
+    date: 2021-01-09
+    time: 0900-1200
+    link: https://www.specsnet.org/events
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-01-19
+    time: 2030-2115
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1098
+    update: 
+-
+    name: County---Net Control - Type III, Part A (Zoom)
+    type: county
+    date: 2021-01-30
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1069
+    update: 
+-
+    name: County---Net Control - Type III, Part B (Zoom)
+    type: county
+    date: 2021-02-06
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1070
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-02-16
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: MTV/County---ARES/RACES Communications Drill
+    type: city
+    date: 2021-02-20
+    time: 1000-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1092
+    update: 
+-
+    name: County---Introduction to Emergency Communications (Zoom)
+    type: county
+    date: 2021-02-27
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1072
+    update: 
+-
+    name: County---Net Control - Type II (Zoom)
+    type: county
+    date: 2021-03-06
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1071
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-03-16
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: County---Fundamentals of Emergency Communications (Zoom)
+    type: county
+    date: 2021-03-27
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1075
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-04-20
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: County---Field Operations Type III, Part A (Outdoors)
+    type: county
+    date: 2021-05-01
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1078
+    update: 
+-
+    name: MTV/County---ARES/RACES Communications Drill
+    type: city
+    date: 2021-05-15
+    time: 1000-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1093
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-05-18
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: County---Field Operations Type III, Part B and Type II (Outdoors)
+    type: county
+    date: 2021-06-05
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1079
+    update: 
+-
+    name: County---Introduction to Emergency Communications (Zoom)
+    type: county
+    date: 2021-06-09
+    time: 1800-2130
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1073
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-06-15
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: County---Shadowing - Type III (Zoom)
+    type: county
+    date: 2021-07-10
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1080
+    update: 
+-
+    name: County---Fundamentals of Emergency Communications (Zoom)
+    type: county
+    date: 2021-07-14
+    time: 1800-2130
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1076
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-07-20
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: County---Packet Operations Type III, Part A (Zoom)
+    type: county
+    date: 2021-08-07
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1081
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-08-17
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: MTV/County---ARES/RACES Communications Drill
+    type: city
+    date: 2021-08-21
+    time: 1000-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1094
+    update: 
+-
+    name: County---Cross-Band Repeating / Antenna Fundamentals (Zoom)
+    type: county
+    date: 2021-09-11
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1082
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-09-21
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: County---Packet Operations Type III, Part B (Zoom)
+    type: county
+    date: 2021-10-02
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1085
+    update: 
+-
+    name: County---Introduction to Emergency Communications (Zoom)
+    type: county
+    date: 2021-10-06
+    time: 1800-2130
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1074
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-10-19
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: County---Fundamentals of Emergency Communications (Zoom)
+    type: county
+    date: 2021-11-03
+    time: 1800-2130
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1077
+    update: 
+-
+    name: County---Packet Operations - Type II - Adv / Troubleshooting (Zoom)
+    type: county
+    date: 2021-11-06
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1083
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-11-16
+    time: 2030-2115
+    link: 
+    update: 
+-
+    name: County---2021 End of Year Summary (Zoom)
+    type: county
+    date: 2021-12-11
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1084
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2021-12-21
+    time: 2030-2115
+    link: 
+    update: 
