@@ -1,6 +1,6 @@
 # Hugo site config file; this config is based on the Mainroad theme
 
-baseurl = "http://k6mtv.broadsky.net/"
+baseurl = "https://k6mtv.broadsky.net/"
 title = "ARES/RACES of Mountain View, CA"
 languageCode = "en-us"
 paginate = "3" # Number of posts per page on list pages
