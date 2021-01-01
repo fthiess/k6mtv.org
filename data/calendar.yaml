@@ -32,6 +32,8 @@
 # If the first word of the field is "new", the update text will be colored green.
 # For anything else the update text will be colored orange.
 
+# A useful tool for converting spreadsheet data into YAML format: https://www.convertcsv.com/csv-to-yaml.htm
+
 
 events:
 -
