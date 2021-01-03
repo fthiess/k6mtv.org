@@ -28,15 +28,7 @@ header.header {
 }
 
 
-/* Try to get captions to align with their figures */
-.k6mtv-figure {
-  width: -webkit-min-content;
-  width: -moz-min-content;
-  width: min-content;
-  margin: 1rem;
-  }
-
-/* Make the titles of posts in lists of posts look like the links they are */
+/* Make the titles of posts on list pages (which are links), actually look like links */
 /* TODO: Figure out how to make the template code work in CSS */
 /* {{- $highlightColor := .Site.Params.highlightColor | default "#e22d30" -}}  */
 header.list__header a {
@@ -45,7 +37,47 @@ header.list__header a {
 }
 
 
-/* Styling for the calendar page */
+/* STYLING FOR FIGURE IMAGES */
+
+/* Set font characteristics for captions */
+figcaption {
+  font-size: 14px;
+  font-style: italic;
+  }
+
+/* Allow images to be floated left or right by adding a class to {{< figure >}} */
+figure.floatleft {
+  float: left;
+	max-width: 30%;
+	height: auto;
+  padding-right: 20px;
+}
+
+figure.floatright {
+  float: right;
+	max-width: 30%;
+	height: auto;
+  padding-left: 20px;
+}
+
+/* Experimental positioning for images using URL anchors */
+/* Example: ![my alt text](myImage.jpg#left) */
+img[src$='#left'] {
+  float: left;
+}
+
+img[src$='#right'] {
+  float: right;
+}
+
+img[src$='#center'] {
+  display: block;
+  margin: auto;
+}
+
+
+
+/* STYLING FOR CALENDAR PAGE */
 
 .calendar {
   table-layout: fixed;

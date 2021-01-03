@@ -28,7 +28,7 @@ participate can be found under the [Nets]({{< ref nets >}}) tab on this website.
 
 ### Training
 
-{{< image-float src="cert_5_15_11.jpg" float="left" >}}
+{{< figure src="cert_5_15_11.jpg" class="floatleft" >}}
 
 Ham radio is "the hobby made up of a thousand hobbies". Emergency Communications, or EmComm, is one of those sub-hobbies,
 and is distinguished in particular from other branches of the hobby not only by the volunteerism and commitment of it's
@@ -40,8 +40,7 @@ Mountain View ARES/RACES, as well as Santa Clara County ARES/RACES, FEMA, and th
 
 ### Practice Drills
 
-{{< image-float src="cert_4_21_12.jpg" float="right" width="400px"
-caption="Debriefing at 1000 Villa Street after CERT drill on April 21, 2012." >}}
+{{< figure src="cert_4_21_12.jpg" class="floatright" caption="Debriefing at 1000 Villa Street after CERT drill on April 21, 2012." width="300px" >}}
 
 During the year field exercises and drills are carried out to sharpen our communications skills and identify areas
 for improvement. Under the navigation button for "Calendar" on this website, you will see the extent of these

@@ -20,11 +20,7 @@ ARES/RACES in Mountain View
 
 Amateur radio in the Mountain View area related to emergency communications started in 1952 as the Palo Alto Civil Defense Net, which held its first large disaster drill in 1953. The RACES (Radio Amateur Civil Emergency Service) had been set up by the FCC in 1952. Mountain View records show a “Civil Defense Test” on April 8, 1954 on 145.35 MHZ. Walter Read, W6ASH, reports that he and about four others participated in drills and Simulated Emergency Tests (SET) during the period 1957-60. They also conducted a net each Monday night on 146 MHZ. This continued until October 27, 1979 when the first SPECS (Southern Peninsula Emergency Communications System) repeater came on the air at 145.27 MHZ. Initially, this repeater was in the home of Walter Read but later a permanent facility was constructed on top of El Camino Hospital. SPECS participants grew steadily as shown by participation in SETs. In 1968 eight participants were involved, but by 1980 this had increased to 76. More information on this period is available at [specsnet.org](http://specsnet.org).
 
-|  | ![Packet radio exercise](wa6mus-n4dla.jpg) | 
-|---|---:| 
-|  | *1Mountain View Police Officer, Walter Johnson (WA6MUS) and Matthew Vurek (N4DLA) participating in a packet radio exercise in September 1991.* |
-
-{{< figure src="wa6mus-n4dla.jpg" alt="Packet radio exercise" caption="*2Mountain View Police Officer, Walter Johnson (WA6MUS) and Matthew Vurek (N4DLA) participating in a packet radio exercise in September 1991.*" >}}
+{{< figure src="wa6mus-n4dla.jpg" alt="Packet radio exercise" class="floatright" caption="Mountain View Police Officer, Walter Johnson (WA6MUS) and Matthew Vurek (N4DLA) participating in a packet radio exercise in September 1991." >}}
 
 In November, 1981 **Seymour Stein, WA6ROM**, became Emergency Coordinator (EC) in Mountain View. He was replaced as EC by **Edgy Edgerton, WA6VZZ**, in 1989, who was replaced by **Terry Hoffman, KD6DIF**, in 1994. Terry was replaced by **Jerry Haag, K6GAC**, in 2001. **Leslie Grimm, KK6EKN**, became EC in 2018.
 
