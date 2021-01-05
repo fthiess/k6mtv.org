@@ -60,7 +60,7 @@ googleAnalytics = "UA-168319-18" # Enable Google Analytics by entering your trac
   URL = "https://www.scc-ares-races.org/activities/events.php"
 
 [markup.goldmark.renderer]
-  unsafe = true  # Allow raw HTML in posts; we can only do this because we will keep tight control over posted content
+  unsafe = false  # true = allow raw HTML in posts; dangerous unless there's tight control over posted content
 
 [deployment]
 [[deployment.targets]]
