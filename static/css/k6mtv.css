@@ -76,6 +76,16 @@ img[src$='#center'] {
 }
 
 
+/* Make the primary text area wider, the sidebar narrower */
+.primary {
+	flex: 1 0  78.75%;  /* Default is 65.83% */
+}
+
+.sidebar {
+	flex: 1 0 18.75%;  /* Default is 31.66% */
+}
+
+
 
 /* STYLING FOR CALENDAR PAGE */
 
