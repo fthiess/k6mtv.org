@@ -3,9 +3,9 @@ Custom CSS for k6mtv.org website
 */
 
 /* Fonts we use that aren't used by the underlying theme */
-@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:400,400i,700");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
-@import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:400,400i,700");   /* Primary font for website */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");     /* Calendar event text */
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700");   /* Calendar dates & times */
 
 /* Override the theme's normal font selection
    Open Sans -> Roberto Slab */
@@ -25,6 +25,10 @@ header.header {
   position: sticky;
   top: 0;
   z-index: 100;
+}
+
+.container--outer {
+	margin: 0 auto;
 }
 
 
