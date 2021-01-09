@@ -174,7 +174,7 @@ thead:empty {
     Github by Fasil https://freeicons.io/profile/722
 */
 
-a[target="_blank"]::after {
+a[target="_blank"]::after :not(.footer) {
   content: url(icon-external-link.svg);
   display: inline-block;
   margin-left: 0.5em;
