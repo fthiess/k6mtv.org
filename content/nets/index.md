@@ -23,10 +23,11 @@ Visitors are welcome to check-in.
 - The main SPECS Net begins at 20:00 on the W6ASH repeater VHF frequencies of 145.270 (with a 100 Hz PL tone). During
 this net each city will be told the frequency to immediately switch to for their own local nets.
 
-- The **Mountain View ARES/RACES net** begins immediately after it's frequency is announced on the main SPECS
+- The **Mountain View ARES/RACES net** begins immediately after its frequency is announced on the main SPECS
 net---usually 146.535 MHz simplex, or our alternate frequency of 147.495 MHz simplex. The net control operator
-will ask for check-ins in order of the first letter of each individual's call sign _suffix_ (e.g. the suffix for
-"K6MTV" is "MTV", so the the operator with that call sign would check in under "M"). Visitors are welcome to check-in.
+will ask for check-ins in order of the first letter of each individual's call sign _suffix_ (the suffix is the letter or
+letters to the right of the number in the call sign, e.g. the suffix for "K6MTV" is "MTV", so the the operator with
+that call sign would check in under "M"). Visitors are welcome to check-in.
 
 - Finally, Santa Clara County ARES/RACES conducts an optional
 [weekly packet practice](https://www.scc-ares-races.org/data/packet/weekly-packet-practice.html). Operators
