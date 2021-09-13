@@ -1,57 +1,83 @@
 ---
-title: "After Action Report: May, 2020 City/County Communications Drill"
-date: 2020-05-16
+title: "Antenna Party Hotwash: Jan 22, 2020"
+date: 2020-01-22
 draft: false
 ---
-## Overview
+## Staff
 
 | | |
-| --------------:       | :--------------------------------------------- |
-| **Description**       | Mountain View County/City Communications Drill |
-| **Event Date**        | May 16, 2020 |
-| **Duration**          | 10:00 am to 12:00 noon |
-| **Location**          | Remote---operators' homes |
-| **Debrief**           | Zoom conference at 12:00 noon |
-| **Activation Number** | MTV-20-02T |
-| **Submitted by**      | Leslie Grimm, ARES Emergency Coordinator |
-
+| ------------------------------------- | ------------------- |
+| Service Monitor (Radio analyzer)      | Dave P              |
+| Packet kit, high-end                  | Poul                |
+| Packet kit with HT                    | Rick                |
+| Antenna Analyzer with printouts       | Forrest             |
+| Antenna Analyzer with printouts       | Poul                |
+| Power Pole                            | Ed                  |
+| Name tags, refreshments               | Leslie and Rick     |
+| Go Kit examples                       | Leslie and Sherril  |
+| 211, photos (optional packet kit)     | Phil                |
+| Labeler, photos, test signups sheet   | Leslie              |
+| Refreshments                          | Rick and Leslie     |
+| Program radios, check database        | Mike                |
+| Mike-mike phonetic abc cards          | Phil                |
 
 ## Description
 
-The scenario was a pandemic with shelter-in-place guidance. Our city’s health and safety officer was requesting information on mask usage and Covid-19 testing. While the messages were being handled there were many unexpected events---an earthquake, loss of the repeater, and a power outage. Players had been warned in advance to expect these sorts of things but they didn’t know which would happen, how many there would be or when they would occur. All of them happened.
+Everyone came on time and was set up when people arrived. In addition, one
+attendee (Keith R) arrived an hour early and helped move tables and chairs into
+position. Others paid attention to coffee supply and helped when a second pot
+was needed. Refreshments of bagel and cream cheese and fresh grapes were ample.
+Some cookies left to us by an event the night before disappeared very quickly…
 
-## Participants
+Total attendance was 25, counting staff. Tests of radios and antennas and
+construction of power pole connectors were accomplished well within the
+time-frame allowed without the need to have a signup sheet. No one needed radio
+programming. Attendees included 3 brand new hams from Mountain View and 3 recent
+hams. Mike greeted new arrivals and gave them an overview of activities. We had
+4 visitors from Los Altos (new ham with husband, EC who came toward the end, and
+one who set up his packet station demonstrating a new design for a “hood”. One
+visitor came from one of the nearby hospital crews. Many attendees were
+interested and asking questions about the go-kit items on display and the
+components of the various packet kits. Mike added two new hams to the database.
+Rick, Phil and Leslie got photos for the website.
 
-There were 7 staff operators: packet county communications, voice county communications, city packet, drill net control, earthquake net control, voice  scribe and shift supervisor. A total of 20 people participated (including staff) plus one observer. Eight non-staff participants did voice messages only, and 5 non-staff members did packet and voice. The 7 staff members also participated in the voice nets, and 2 of them also sent packet messages to the city net operator. The 20 active participants spent 67 hours during the drill, plus 66 hours of prep time for a total of 133 volunteer hours.
+Dave tested 6 radios. He used the same basic measurement-kit of equipment he
+used in previous years, plus one new experiment (using a directional coupler as
+a safe RF attenuator) and it all worked out fine and met the needs.
 
-## Results
+Antenna analyzer:
 
-All participants successfully handled all the unexpected events and sent all the messages required. There were two informal messages for voice-only operators and two ICS 213s for packet operators. Operators responded to [Mike-Mike report](https://www.scc-ares-races.org/MMScale.html) requests and a question on ability to operate without external power. Operators were brief and concise in their reports and responses. They reported in the hot wash that they found the drill to be fun---they enjoyed being able to do different things, and to apply different skills: check-ins, changing frequencies, Mike-Mike reports, using batteries, etc. Some operators had to take extra steps in preparing for the drill in order to set up their equipment to handle more frequencies at one time, so they now know what they need to do in an incident with extra challenges.
+- Forrest met with 9-10 people. It took about 5-10 minutes per person. 7 wanted
+  printouts. It took about 5-10 minutes per person, depending on the number of
+  antennas they wanted to test (most were 1, but several had 2, and one person
+  had 4---so around 15 tests run, total), how many questions they had, and how
+  much they wanted to chat. He thinks there were more people who were curious
+  and wanting to understand the ideas behind antenna testing, than there were
+  people who came prepared to have testing done (which was fine!). 2-3 people
+  just wanted to talk and hadn't been planning on getting testing done, but
+  after hearing more about what we were doing, they ran out to their car to get
+  an antenna to bring it in to test.
 
-## Conclusions and Recommendations
+- Poul – no tests – Forrest had no trouble handling all the tests.
 
-### What worked
+## For Next TIme
 
-Operators met or exceeded the objectives for the drill. They were prepared with the necessary equipment and forms and transmitted messages briefly and concisely, following clear instructions from Net Control. They had prepared in advance to be able to handle the types of unexpected events that might occur.
-We had added an extra packet operator to handle messages coming from the city, since past experience had shown that there was too much traffic from the county to allow the operator to deal with traffic to/from the field in the city. This addition was very helpful!  We also had a second operator handling voice communications with the county and coordinating with our county packet operator.
-Having a separate command channel was very helpful, since the team couldn’t be together in one place. This was needed because we were drilling with 100% radios (no internet), as would be likely in a real incident.
-Pre-drill instructions, scripts, tally sheets, and planning materials worked well. There was enough action for operators to stay involved continuously (nobody was bored!)
-
-### What didn’t work; needs improvement
-
-The biggest challenge was for packet operations. Our primary BBS was extremely busy, since other cities and the county were using it. Our secondary BBS can’t be reached well by all operators. Our city operators couldn’t get their packet instructions until about 45 minutes into the drill. This would be a problem in an actual incident, so we will explore options to mitigate it in the future. Ideally we might get equipment to use the county wifi network, and it would also help to have a repeater dedicated to Mountain View. 
-Suggestions for mitigating the packet traffic jam:
-
-1. Make use of the city bulletin feature. The drill bulletin could be sent shortly before the drill (1 hour? 1 day?) so that field operators would get it when they check in to the packet net.
-2. We could spread the operators over two or more BBS.
-3. Operators could connect to download messages about an hour before the drill.
-4. For a local event (nothing from the County), disable the `xscevent` to avoid outpost spending time looking for bulletins there.
-5. Send packet instructions ahead of time (email).
-6. Determine a best practice time interval for checking for messages. Frequent checks add to the traffic jam.
-7. When we operate from the shack, set up a second packet station in the break room with its own external antenna. The shack station would handle incoming messages since there is a printer there, and the break-room station could handle out-bound packet messages.
-
-Pre-drill instructions were adequate, but tracking the evolving versions could be better handled by using a central place such as Google Docs. There could be a folder for staff and another folder for participants.
-
-The tally sheets developed for the drill were very helpful, but we wouldn’t have them for a real incident. It was suggested that we create a generalized sheet with active operators sorted by suffix in the first column and other columns to be labeled as needed on-the-fly.
-
-Most staff members also acted as participants for voice messages, but only two had the equipment and time to also send a packet message. Sending packet while also doing voice staff duties was generally not feasible, due to frequency limitations. (Three 2-Meter frequencies needed at once). Future plans will need to adjust for this.
+- Antenna testers need cookie sheet (ground plane) for magmounts
+- Antenna test: suggest to zoom in on one band at a time, to get a more accurate
+  display.
+- Have labeler available to label new people’s radios etc.
+- No need for signups for antenna and radio tests – at most only one person was
+  waiting at any one time.
+- Assign one person to greet new arrivals and give them an overview of
+  activities
+- Maybe more publicity: for example, list it on the scc-ares-races.org site as
+  an event open to everyone.
+- Use the event for recruiting: advertise it to the CERT mailing list. Even if
+  they're not hams, I think they might be interested (and if we wanted to use it
+  for recruiting, we could design it to be more interesting to them, too).
+- Improve the arrangement of tables (which was mostly based on the original
+  classroom setup) to make movement around the room less awkward. Maybe move
+  most of the setups to the edges of room?  Make a map of table arrangement
+  ahead of time---some need power, some need high ceiling for antennas.
+- Have literature on who we are, how to get started, and upcoming events
+  available for new and prospective hams.
