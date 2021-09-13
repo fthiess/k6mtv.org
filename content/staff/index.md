@@ -25,7 +25,6 @@ HospitalNet Staff at El Camino Hospital, Mountain View
 
 | | |
 |-|-|
-| Rudy Bahr, W6OWI       | Ralph Hunt, AG6Q      |
-| Bob Fishman, K6FSH     | Rick Van Mell, KI6PUR |
-| Poul Hansen, KZ6DM     | Mark Wunderman, AE6K  |
-| Phil Henderson, KF6ZSQ |                       |
+| Bob Fishman, K6FSH     | Ralph Hunt, AG6Q      |
+| Poul Hansen, KZ6DM     | Rick Van Mell, KI6PUR |
+| Phil Henderson, KF6ZSQ | Mark Wunderman, AE6K  |
