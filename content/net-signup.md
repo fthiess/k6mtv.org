@@ -6,4 +6,4 @@ aliases:
   - /monday-net
   - /mondaynet
 ---
-{{< embed-iframe src="http://www.k6mtv.org/cgi-bin/net-res.pl?pass=1" height="1000px" >}}
+{{< embed-iframe src="https://www.k6mtv.org/cgi-bin/net-res.pl?pass=1" height="1000px" >}}
