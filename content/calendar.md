@@ -1,5 +1,5 @@
 ---
-title: "Mountain View ARES/RACES 2021 Events Calendar"
+title: "Mountain View ARES/RACES 2022 Events Calendar"
 date: 2022-01-01
 draft: false
 menu:
