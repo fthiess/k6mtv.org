@@ -1,7 +1,7 @@
 # Data file from which the calendar of MTV ARES/RACES events is generated
 
 # Events are written in YAML with 4 fields: name, type, date, and time. Example:
-# - name: SPECS General Meeting      # Name of event; may also include location and any other useful info
+# - name: SPECS General Meeting      # Name of event; may also include location and any other useful info (no ":" allowed in name)
 #   type: other                      # If "city", "county", "cert", or "react", this will set the color "name" is shown in
 #   date: 2020-01-11                 # Date of event; MUST be in YYYY-MM-DD form shown (ISO standard)
 #   time: 0900-1200                  # Time of event; may use any form, but form may affect sorting order
@@ -39,231 +39,434 @@ events:
 -
     name: SPECS General Meeting (Zoom)
     type: other
-    date: 2021-01-09
+    date: 2022-01-08
     time: 0900-1200
     link: https://www.specsnet.org/events
     update: 
 -
     name: County---Training Net - Message Passing Practice (Radio)
     type: county
-    date: 2021-01-19
+    date: 2022-01-18
     time: 2030-2115
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1098
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1194
+    update: 
+-
+    name: County---Monthly Packet Message Passing Exercise (Packet)
+    type: county
+    date: 2022-01-19
+    time: 0900-1000
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1195
+    update: 
+-
+    name: County---Message Passing - Tabletop
+    type: county
+    date: 2022-01-29
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1159
     update: 
 -
     name: County---Net Control - Type III, Part A (Zoom)
     type: county
-    date: 2021-01-30
+    date: 2022-02-05
     time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1069
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1163
+    update: 
+-
+    name: CERT Refresher---Tools for Leadership Success
+    type: cert
+    date: 2022-02-06
+    time: 1900-2100
+    link: https://www.eventbrite.com/e/cert-refresher-tools-for-leadership-success-tickets-74210875727?aff=ebdsoporgprofile
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2022-02-15
+    time: 2030-2115
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1196
+    update: 
+-
+    name: County---Monthly Packet Message Passing Exercise (Packet)
+    type: county
+    date: 2022-02-16
+    time: 0900-1000
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1198
+    update: 
+-
+    name: MTV/County---ARES/RACES Communications Drill
+    type: city
+    date: 2022-02-19
+    time: 1000-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1199
+    update: 
+-
+    name: County---Introduction to Emergency Communications
+    type: county
+    date: 2022-02-26
+    time: 0900-1230
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1161
     update: 
 -
     name: County---Net Control - Type III, Part B (Zoom)
     type: county
-    date: 2021-02-06
+    date: 2022-03-05
     time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1070
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1164
     update: 
 -
     name: County---Training Net - Message Passing Practice (Radio)
     type: county
-    date: 2021-02-16
+    date: 2022-03-15
     time: 2030-2115
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1203
+    update: 
+-
+    name: County---Monthly Packet Message Passing Exercise (Packet)
+    type: county
+    date: 2022-03-16
+    time: 0900-1000
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1206
+    update: 
+-
+    name: County---Fundamentals of Emergency Communications
+    type: county
+    date: 2022-03-26
+    time: 0900-1230
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1162
+    update: 
+-
+    name: County---Net Control - Type II
+    type: county
+    date: 2022-04-02
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1165
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2022-04-19
+    time: 2030-2115
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1211
+    update: 
+-
+    name: County---Monthly Packet Message Passing Exercise (Packet)
+    type: county
+    date: 2022-04-20
+    time: 0900-1000
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1213
+    update: 
+-
+    name: Mountain View / Los Altos Antenna Party
+    type: city
+    date: 2022-04-23
+    time: 0900-1200
     link: 
+    update: 
+-
+    name: 2022 Tierra Bella Bicycle Tour
+    type: other
+    date: 2022-04-23
+    time: 0630-1730
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1208
+    update: 
+-
+    name: County---Pop-Up Packet Practice
+    type: county
+    date: 2022-04-30
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1190
+    update: 
+-
+    name: County---Field Packet Mini-Drill
+    type: county
+    date: 2022-04-30
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1191
+    update: 
+-
+    name: CERT Academy 2022-1 Tue & Thu nights, finish Saturday May 21
+    type: cert
+    date: 2022-05-05
+    time: 1830-2130
+    link: https://www.eventbrite.com/e/mountain-view-community-emergency-response-team-cert-academy-2022-1-tickets-60472097672?aff=ebdsoporgprofile
+    update: 
+-
+    name: County---Field Operations Type III, Part A
+    type: county
+    date: 2022-05-07
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1166
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2022-05-17
+    time: 2030-2115
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1217
+    update: 
+-
+    name: County---Monthly Packet Message Passing Exercise (Packet)
+    type: county
+    date: 2022-05-18
+    time: 0900-1000
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1219
     update: 
 -
     name: MTV/County---ARES/RACES Communications Drill
     type: city
-    date: 2021-02-20
-    time: 1000-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1092
+    date: 2022-05-21
+    time: 0900-1300
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1187
+    update: 
+-
+    name: County---FEMA 800 National Response Framework, An Introduction
+    type: county
+    date: 2022-05-25
+    time: 1830-2200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1215
+    update: 
+-
+    name: County---Field Operations Type III, Part B and Type II
+    type: county
+    date: 2022-06-04
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1167
     update: 
 -
     name: County---Introduction to Emergency Communications (Zoom)
     type: county
-    date: 2021-02-27
-    time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1072
+    date: 2022-06-08
+    time: 1800-2130
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1178
     update: 
 -
-    name: County---Net Control - Type II (Zoom)
+    name: County---Monthly Packet Message Passing Exercise (Packet)
     type: county
-    date: 2021-03-06
+    date: 2022-06-15
+    time: 0900-1000
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1232
+    update: 
+-
+    name: County---Event Planning - Tabletop
+    type: county
+    date: 2022-06-18
     time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1071
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1168
     update: 
 -
     name: County---Training Net - Message Passing Practice (Radio)
     type: county
-    date: 2021-03-16
+    date: 2022-06-21
     time: 2030-2115
-    link: 
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1224
     update: 
 -
-    name: County---Fundamentals of Emergency Communications (Zoom)
+    name: County---Message Passing - Tabletop
     type: county
-    date: 2021-03-27
+    date: 2022-07-09
     time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1075
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1160
+    update: 
+-
+    name: County---Fundamentals of Emergency Communications
+    type: county
+    date: 2022-07-13
+    time: 1800-2130
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1179
     update: 
 -
     name: County---Training Net - Message Passing Practice (Radio)
     type: county
-    date: 2021-04-20
+    date: 2022-07-19
     time: 2030-2115
-    link: 
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1236
     update: 
 -
-    name: County---Field Operations Type III, Part A (Outdoors)
+    name: County---Credential Equipment Evaluation
     type: county
-    date: 2021-05-01
+    date: 2022-07-21
+    time: 1800-2030
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1235
+    update: 
+-
+    name: County---Packet Operations Type III, Part A
+    type: county
+    date: 2022-08-06
     time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1078
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1169
+    update: 
+-
+    name: County---RDF Search and Locate Mini-drill
+    type: county
+    date: 2022-08-13
+    time: 0800-1230
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1189
+    update: 
+-
+    name: County---Training Net - Message Passing Practice (Radio)
+    type: county
+    date: 2022-08-16
+    time: 2030-2115
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1242
+    update: CANCELLED
+-
+    name: County---Monthly Packet Message Passing Exercise (Packet)
+    type: county
+    date: 2022-08-17
+    time: 0900-1000
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1246
+    update: 
+-
+    name: County---Shadowing - Type III
+    type: county
+    date: 2022-08-20
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1172
     update: 
 -
     name: MTV/County---ARES/RACES Communications Drill
     type: city
-    date: 2021-05-15
+    date: 2022-08-27
     time: 1000-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1093
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1255
     update: 
 -
-    name: County---Training Net - Message Passing Practice (Radio)
-    type: county
-    date: 2021-05-18
-    time: 2030-2115
-    link: 
-    update: 
--
-    name: County---Field Operations Type III, Part B and Type II (Outdoors)
-    type: county
-    date: 2021-06-05
-    time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1079
-    update: 
--
-    name: County---Introduction to Emergency Communications (Zoom)
-    type: county
-    date: 2021-06-09
-    time: 1800-2130
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1073
-    update: 
--
-    name: County---Training Net - Message Passing Practice (Radio)
-    type: county
-    date: 2021-06-15
-    time: 2030-2115
-    link: 
-    update: 
--
-    name: County---Shadowing - Type III (Zoom)
-    type: county
-    date: 2021-07-10
-    time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1080
-    update: 
--
-    name: County---Fundamentals of Emergency Communications (Zoom)
-    type: county
-    date: 2021-07-14
-    time: 1800-2130
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1076
-    update: 
--
-    name: County---Training Net - Message Passing Practice (Radio)
-    type: county
-    date: 2021-07-20
-    time: 2030-2115
-    link: 
-    update: 
--
-    name: County---Packet Operations Type III, Part A (Zoom)
-    type: county
-    date: 2021-08-07
-    time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1081
-    update: 
--
-    name: County---Training Net - Message Passing Practice (Radio)
-    type: county
-    date: 2021-08-17
-    time: 2030-2115
-    link: 
-    update: 
--
-    name: MTV/County---ARES/RACES Communications Drill
+    name: Mountain View Art and Wine Festival
     type: city
-    date: 2021-08-21
-    time: 1000-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1094
-    update: 
--
-    name: County---Cross-Band Repeating / Antenna Fundamentals (Zoom)
-    type: county
-    date: 2021-09-11
-    time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1082
-    update: 
--
-    name: County---Training Net - Message Passing Practice (Radio)
-    type: county
-    date: 2021-09-21
-    time: 2030-2115
+    date: 2022-09-10
+    time: 
     link: 
     update: 
 -
-    name: County---Packet Operations Type III, Part B (Zoom)
+    name: County---Cross-Band Repeating / Antenna Fundamentals
     type: county
-    date: 2021-10-02
+    date: 2022-09-10
     time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1085
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1176
     update: 
 -
-    name: County---Introduction to Emergency Communications (Zoom)
+    name: CERT Refresher---CERT Terrorism Awareness
+    type: cert
+    date: 2022-09-13
+    time: 1900-2100
+    link: https://www.eventbrite.com/e/cert-refresher-incident-action-plan-iap-tickets-354742312807?utm_source=eventbrite&utm_medium=email&utm_campaign=reminder_attendees_48hour_email&utm_term=eventname&ref=eemaileventremind
+    update: 
+-
+    name: County---Santa Clara County DSW Registration
     type: county
-    date: 2021-10-06
+    date: 2022-09-17
+    time: 0800-0830
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1258
+    update: 
+-
+    name: County---ARES/RACES Communications Drill
+    type: county
+    date: 2022-09-17
+    time: 0845-1345
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1252
+    update: 
+-
+    name: County---Training Net - Mike-Mike Report Practice (Radio)
+    type: county
+    date: 2022-09-20
+    time: 2030-2115
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1254
+    update: 
+-
+    name: County---Monthly Packet Message Passing Exercise (Packet)
+    type: county
+    date: 2022-09-21
+    time: 0900-1000
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1261
+    update: 
+-
+    name: Trailblazer Run/Walk
+    type: city
+    date: 2022-09-25
+    time: 0700-1300
+    link: http://www.k6mtv.org/events/TrailB-Signup.html
+    update: 
+-
+    name: County---Credential Equipment Evaluation
+    type: county
+    date: 2022-09-29
+    time: 1830-2030
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1263
+    update: 
+-
+    name: County---Packet Operations Type III, Part B
+    type: county
+    date: 2022-10-01
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1170
+    update: 
+-
+    name: CERT Academy 2022-2 Tue & Thu nights, finish Saturday Oct 22
+    type: cert
+    date: 2022-10-06
+    time: 1830-2130
+    link: https://www.eventbrite.com/e/mountain-view-community-emergency-response-team-cert-academy-tickets-354746695917?aff=ebdsoporgprofile
+    update: 
+-
+    name: County---Field Operations Type III, Part A
+    type: county
+    date: 2022-10-15
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1173
+    update: 
+-
+    name: County---Training Net - Mike-Mike Report Practice (Radio)
+    type: county
+    date: 2022-10-18
+    time: 2030-2115
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1265
+    update: 
+-
+    name: County---Introduction to Emergency Communications
+    type: county
+    date: 2022-10-19
     time: 1800-2130
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1074
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1180
     update: 
 -
-    name: County---Training Net - Message Passing Practice (Radio)
+    name: MTV/CERT---City-Wide ARES/CERT Drill
+    type: city
+    date: 2022-11-05
+    time: 1300-1700
+    link: https://www.eventbrite.com/e/citywide-cert-drill-november-5-2022-tickets-354759915457?aff=ebdsoporgprofile
+    update: 
+-
+    name: County---Packet Operations - Type II - Adv / Troubleshooting
     type: county
-    date: 2021-10-19
+    date: 2022-11-05
+    time: 0900-1200
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1171
+    update: 
+-
+    name: County---Training Net - Pro-Words Practice (Radio)
+    type: county
+    date: 2022-11-15
     time: 2030-2115
-    link: 
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1262
     update: 
 -
-    name: County---Fundamentals of Emergency Communications (Zoom)
+    name: County---Fundamentals of Emergency Communications
     type: county
-    date: 2021-11-03
+    date: 2022-11-16
     time: 1800-2130
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1077
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1181
     update: 
 -
-    name: County---Packet Operations - Type II - Adv / Troubleshooting (Zoom)
+    name: County---Field Operations Type III, Part B and Type II
     type: county
-    date: 2021-11-06
+    date: 2022-11-19
     time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1083
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1174
     update: 
 -
-    name: County---Training Net - Message Passing Practice (Radio)
+    name: County---2022 End of Year Summary
     type: county
-    date: 2021-11-16
-    time: 2030-2115
-    link: 
-    update: 
--
-    name: County---2021 End of Year Summary (Zoom)
-    type: county
-    date: 2021-12-11
+    date: 2022-12-10
     time: 0900-1200
-    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1084
-    update: 
--
-    name: County---Training Net - Message Passing Practice (Radio)
-    type: county
-    date: 2021-12-21
-    time: 2030-2115
-    link: 
+    link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1175
     update: 
