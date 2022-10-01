@@ -47,7 +47,7 @@ scripts and the roster of regular participants can be found below.
 - [MTV Script for Monday night net (*if net control is at K6MTV*)](MTV_SPECS_Script_K6MTV_2017052317.pdf)
 - [MTV Script for Monday night net (*if net control is at a remote location*)](MTV_SPECS_Script_Remote_20170523.pdf)
 - [MTV Script for Monday night net (*during COVID-19 Shelter In Place*)](MTV_SPECS_Script_SIP_20200601.pdf)
-- [Current roster of Mountain View net participants](roster-200414.pdf)
+- [Current roster of Mountain View net participants](20220220-mtv-roster.pdf) (2022-02-20)
 - [Practice Recording Call Signs from Audio Recordings]({{< ref "call-sign-practice" >}})
 
 ## Other Nets in the South Bay Area

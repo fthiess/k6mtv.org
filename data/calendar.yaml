@@ -331,18 +331,25 @@ events:
     link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1255
     update: 
 -
-    name: Mountain View Art and Wine Festival
-    type: city
-    date: 2022-09-10
-    time: 
-    link: 
-    update: 
--
     name: County---Cross-Band Repeating / Antenna Fundamentals
     type: county
     date: 2022-09-10
     time: 0900-1200
     link: https://www.scc-ares-races.org/activities/eventdetail.php?id=1176
+    update: 
+-
+    name: Mountain View Art and Wine Festival
+    type: react
+    date: 2022-09-10
+    time: 10000-1900
+    link: https://www.k6mtv.org/events/MVAW-Signup.html
+    update: 
+-
+    name: Mountain View Art and Wine Festival
+    type: react
+    date: 2022-09-11
+    time: 10000-1700
+    link: https://www.k6mtv.org/events/MVAW-Signup.html
     update: 
 -
     name: CERT Refresher---CERT Terrorism Awareness
@@ -381,7 +388,7 @@ events:
     update: 
 -
     name: Trailblazer Run/Walk
-    type: city
+    type: react
     date: 2022-09-25
     time: 0700-1300
     link: http://www.k6mtv.org/events/TrailB-Signup.html
