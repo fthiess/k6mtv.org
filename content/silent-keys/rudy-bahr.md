@@ -2,7 +2,7 @@
 title: "Rudy Bahr, W6OWI"
 date: 2021-05-11
 draft: false
-thumbnail: "thumbnails/rudy-bahr.jpg"
+thumbnail: "thumbnails/rudy-bahr.webp"
 ---
 
 As some of you may know, Rudy Bahr, W6OWI, AEC Mountain View, passed May 11. He had been a member of Mountain View ARES for at least 20 years and had participated in many drills and training activities over the years. I have prepared some web pages and added them to the Silent Key section of the k6mtv.org web site so that we can all honor and remember him. I want to thank Mark Wunderman, Rick Van Mell and Leslie Grimm for contributing pictures for these pages. I want to especially thank Jean Bahr, Rudy's daughter, who also contributed pictures and the biography below. Jean submitted [an obituary to the Los Altos Town Crier](https://www.losaltosonline.com/people/obituaries/rudolph-bahr-jr/article_31c42bb4-bd7a-11eb-a2ec-b36e8402579e.html) that will be published next Wednesday.

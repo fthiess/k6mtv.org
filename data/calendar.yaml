@@ -341,14 +341,14 @@ events:
     name: Mountain View Art and Wine Festival
     type: react
     date: 2022-09-10
-    time: 10000-1900
+    time: 1000-1900
     link: https://www.k6mtv.org/events/MVAW-Signup.html
     update: 
 -
     name: Mountain View Art and Wine Festival
     type: react
     date: 2022-09-11
-    time: 10000-1700
+    time: 1000-1700
     link: https://www.k6mtv.org/events/MVAW-Signup.html
     update: 
 -

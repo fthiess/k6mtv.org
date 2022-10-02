@@ -14,7 +14,8 @@ Mountain View ARES/RACES participates in several nets on Monday nights:
 ## SPECS Net: Every Monday Night, 20:00-20:30
 
 The [Southern Peninsula Emergency Communications System (SPECS)](http://www.specsnet.org/) meets every Monday night at
-20:00 (8:00 PM). [SPECS conducts](https://www.specsnet.org/monday-night-net) two nets on Monday nights, plus a concurrent set of city-specific nets; there's an optional weekly packet practice as well:
+20:00 (8:00 PM). [SPECS conducts](https://www.specsnet.org/monday-night-net) two nets on Monday nights, plus a
+concurrent set of city-specific nets; there's an optional weekly packet practice as well:
 
 - The optional "UHF net" meets from 19:30 to 20:00 on the linked W6ASH repeater UHF frequencies of 224.14 MHz (with
 an 88.5 Hz PL tone) and 440.800 MHz (with a 100 Hz PL tone). The UHF net closes when the main net begins.
@@ -44,16 +45,16 @@ scripts and the roster of regular participants can be found below.
 
 ## Net Control Scripts and Rosters
 
-- [MTV Script for Monday night net (*if net control is at K6MTV*)](MTV_SPECS_Script_K6MTV_2017052317.pdf)
-- [MTV Script for Monday night net (*if net control is at a remote location*)](MTV_SPECS_Script_Remote_20170523.pdf)
-- [MTV Script for Monday night net (*during COVID-19 Shelter In Place*)](MTV_SPECS_Script_SIP_20200601.pdf)
-- [Current roster of Mountain View net participants](20220220-mtv-roster.pdf) (2022-02-20)
+- [MTV Script for Monday night net (_if net control is at K6MTV_)](MTV_SPECS_Script_K6MTV_2017052317.pdf) [2017-05-23]
+- [MTV Script for Monday night net (_if net control is at a remote location_)](MTV_SPECS_Script_Remote_20170523.pdf) [2017-05-23]
+- [MTV Script for Monday night net (_during COVID-19 Shelter In Place_)](MTV_SPECS_Script_SIP_20200601.pdf) [2020-06-01]
+- [Current roster of Mountain View net participants](20220220-mtv-roster.pdf) [2022-02-20]
 - [Practice Recording Call Signs from Audio Recordings]({{< ref "call-sign-practice" >}})
 
 ## Other Nets in the South Bay Area
 
 For ARES/RACES, the Monday night SPECS Net (see above) covers half the cities in Santa Clara
-County, including Mountain View; the cities in the other half of the County participate in the weekly *Tuesday*
+County, including Mountain View; the cities in the other half of the County participate in the weekly _Tuesday_
 night [SVECS Net](http://www.svecs.net/). A breakdown of these and various other nets can be found on the
 ["Nets" page of the Santa Clara County ARES/RACES website](https://www.scc-ares-races.org/nets.html).
 
