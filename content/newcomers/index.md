@@ -6,9 +6,8 @@ menu:
   main:
     weight: 10
 ---
+
 ## Qualifications
-
-
 
 ## Experience and Training
 
@@ -36,7 +35,10 @@ members, but also by requirements for training and practice. In a real emergency
 has compatible equiplment and knows how to operate it, but that operators know the procedures and protocols needed to
 insure communication is effective and meets the needs of the agencies we serve.
 
-Mountain View ARES/RACES, as well as Santa Clara County ARES/RACES, FEMA, and the California Office of Emergency Services, offer a wide variety of training, from general to specialized, to insure that when the need arises, ARES/RACES members are ready to step up. Details of these training programs can be found under the [Training]({{< ref training >}}) tab on this website.
+Mountain View ARES/RACES, as well as Santa Clara County ARES/RACES, FEMA, and the California Office of Emergency Services,
+offer a wide variety of training, from general to specialized, to insure that when the need arises, ARES/RACES members
+are ready to step up. Details of these training programs can be found under the [Training]({{< ref training >}}) tab on
+this website.
 
 ### Practice Drills
 
@@ -51,9 +53,12 @@ communications in other cities. In the picture to the left, Rudy Bahr, W6OWI, Bo
 Hugo Penafiel, KI6VNJ join other hams at a communication station in Cuesta Park on May 15, 2011 during a
 city-wide CERT drill.
 
-## Missing Content
+## How to Sign Up to Participate
 
-- How to register
-- Contact Leslie
-- FCC license
-- Activities
+Every FCC-licensed amateur, regardless of membership in ARRL or any other local or national organization, is eligible
+for membership in the ARES. The only qualification, other than possession of an Amateur Radio license, is a sincere
+desire to serve. The possession of emergency-powered equipment is desirable, but is not a requirement for
+membership. To register as a Mountain View ARES member and add yourself to our roster please go to
+[scc-ares-races.org/arrl-info.html](http://scc-ares-races.org/arrl-info.html) and fill in as much info as you're
+comfortable with. At the bottom of the form, select "Mountain View" for City, then click on "Submit".
+
