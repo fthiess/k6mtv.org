@@ -19,9 +19,9 @@ resources, contact persons, and activation procedures to be followed in the even
 
 ## Mountain View Forms
 
-- [ICS-213 MTV CERT Damage Assessment Summary, 2014-03-26](static/forms/ICS_213_MTV_Damage_Summary_20140326.pdf)
-- [ICS-314 MTV Windshield Damage Survey, 2010-01](static/forms/ICS-314_Windshield_Damage_Survey_MTV_201001.pdf)
-- [911 Emergency Message Form](static/forms/MTV-911-form.pdf)
+- [ICS-213 MTV CERT Damage Assessment Summary](static/forms/ICS_213_MTV_Damage_Summary_20140326.pdf) [2014-03-26]
+- [ICS-314 MTV Windshield Damage Survey](static/forms/ICS-314_Windshield_Damage_Survey_MTV_201001.pdf) [2010-01]
+- [911 Emergency Message Form](static/forms/MTV-911-form.pdf) [2009-05]
 
 ## Santa Clara County ARES/RACES Forms
 
@@ -52,13 +52,11 @@ The following links may be useful to you in connection with your ARES activities
 
 - Southern Peninsula Emergency Communications System (SPECS): [specsnet.org](http://specsnet.org)
 - Santa Clara County ARES/RACES: [scc-ares-races.org](http://scc-ares-races.org)
-- ARRL Santa Clara Valley Section: [santaclaravalley.org](http://santaclaravalley.org)
+- ARRL Santa Clara Valley Section: [arrlsantaclaravalley.org](https://arrlsantaclaravalley.org)
 - Loma Pioneer Repeater Club: [lprc.net](http://lprc.net)
 - American Radio Relay League (ARRL): [arrl.org](http://arrl.org)
-- [PacFORMS Update for MV CERT (2019-11-06)](pacforms-da)
-- [Mountain View Antenna Drops](drops)
-- [Disaster Service Worker (DSW) Volunteer Program](https://www.caloes.ca.gov/cal-oes-divisions/administrative-services/disaster-service-worker-volunteer-program)
-- Webmaster Phil Henderson: [kf6zsq@yahoo.com](mailto:kf6zsq@yahoo.com)
+- [PacFORMS Update for MV CERT](resources/pacforms-da)
+- [CalOES Disaster Service Worker (DSW) Volunteer Program](https://www.caloes.ca.gov/office-of-the-director/policy-administration/finance-administration/human-resources/disaster-service-worker-volunteer-program/)
 
 ## Miscellaneous
 
