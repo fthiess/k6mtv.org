@@ -55,7 +55,7 @@ The following links may be useful to you in connection with your ARES activities
 - ARRL Santa Clara Valley Section: [arrlsantaclaravalley.org](https://arrlsantaclaravalley.org)
 - Loma Pioneer Repeater Club: [lprc.net](http://lprc.net)
 - American Radio Relay League (ARRL): [arrl.org](http://arrl.org)
-- [PacFORMS Update for MV CERT](resources/pacforms-da)
+- [PacFORMS Update for MV CERT](pacforms-da)
 - [CalOES Disaster Service Worker (DSW) Volunteer Program](https://www.caloes.ca.gov/office-of-the-director/policy-administration/finance-administration/human-resources/disaster-service-worker-volunteer-program/)
 
 ## Miscellaneous

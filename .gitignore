@@ -4,3 +4,6 @@ public/*
 
 # Don't include EMACS backup files
 *~
+
+# Don't include the build lock file added to a recent version of Hugo
+.hugo_build.lock
