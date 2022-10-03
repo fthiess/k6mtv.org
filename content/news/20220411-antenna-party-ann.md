@@ -3,6 +3,10 @@ title: "Save the Date: Antenna Party April 23, 2022"
 date: 2022-04-11
 thumbnail: "thumbnails/antenna-party-ann-20191223.jpg"
 draft: false
+summary: We are happy to announce that MTV ARES/RACES will hold its annual Antenna Party again,
+         after two years without it. This is an opportunity for members to meet and check out
+         their equipment and see examples of go-kits, packet kits, and some new equipment
+         people have developed.
 ---
 We are happy to announce that MTV ARES/RACES will hold its annual Antenna Party again, after two years without it. This is an opportunity for members to meet and check out their equipment and see examples of go-kits, packet kits, and some new equipment people have developed. Come prepared with your equipment if you are interested in any of the following:
 

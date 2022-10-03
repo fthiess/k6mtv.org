@@ -1,11 +1,13 @@
 ---
-title: "Trailblazer Race, Sunday morning, September 25, held at Shoreline Park"
+title: "Trailblazer Race, Sunday Morning, September 25, Held at Shoreline Park"
 date: 2022-08-19
 draft: false
+summary: Operators are needed for Net Control (under a canopy near the parade start/finish), at water stops
+         and mile markers, and as a bike sweeps, to support a live race at Shoreline Park.
 ---
 ### Trailblazer, Sunday morning, September 25, held at Shoreline Park
 
-We are looking forward to supporting the Trailblazer Run/Walk this year. It was virtual for the past two years, but it will be “live” at Shoreline park on Sunday morning, September 25. This event includes a 5k walk, 5k run, and 10k run.
+We are looking forward to supporting the Trailblazer Run/Walk this year. It was virtual for the past two years, but it will be “live” at Shoreline Park on Sunday morning, September 25. This event includes a 5k walk, 5k run, and 10k run.
 
 Operators will be needed at Net control (under a canopy near the parade start/finish), at water stops and mile markers, and as a bike sweep.
 

@@ -2,6 +2,8 @@
 title: "Mountain View City Communications Exercise After-Action Report"
 date: 2022-08-28
 draft: false
+summary: Fourteen people participated, 12 from home, with one Net Control and one packet operator.
+         Everything went very well, despite problems with the County alert system.
 ---
 
 ## Overview
@@ -23,10 +25,11 @@ noon. We participated in the first two phases of the drill.
 
 ## What We Did
 
-Fourteen people participated, 12 from home. We used the W6ASH repeater (145.270 MHz) for
+14 people participated, 12 from home. We used the W6ASH repeater (145.270 MHz) for
 communications between home operators and Net Control (NC), and the County message net for
-communications with County Emergency Operations Center (EOC). Packet net used BBS W1XSC. One operator acted as Net
-Control at the radio room and one as Packet Operator (see assignments table below).
+communications with County Emergency Operations Center (EOC). Packet net used BBS W1XSC. One
+operator acted as Net Control at the radio room and one as Packet Operator (see assignments
+table below).
 
 The operators with a county DSW received an alert a few minutes before 10:00am. Net Control
 opened a directed net to collect Mike-Mike reports. At about 10:20 there was supposed to be a
