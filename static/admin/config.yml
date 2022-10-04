@@ -32,7 +32,7 @@ collections:
         file: "data/calendar.yaml"
         fields:
           - {label: "Name", name: "name", widget: "string"}
-          - {label: "Type", name: "type", widget: "string"""}
+          - {label: "Type", name: "type", widget: "string"}
           - {label: "Date", name: "date", widget: "date"}
           - {label: "Time", name: "time", widget: "string"}
           - {label: "Link", name: "link", widget: "string"}
