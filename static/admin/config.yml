@@ -45,7 +45,7 @@ collections:
         #description: "Events to be listed on the site's calendar page"
         #folder: "data" # The path to the folder where the documents are stored
         name: "calendar"
-        file: "data/calendar.yaml"
+        file: "content/data/calendar.yaml"
         fields:
           - {label: "Name", name: "name", widget: "string"}
           - {label: "Type", name: "type", widget: "string", hint: "Must be 'city', 'county', 'cert', 'react', or blank (other)"}
@@ -55,7 +55,7 @@ collections:
           - {label: "Update", name: "update", widget: "string", hint: "Optional update (e.g. 'CANCELLED')"}
       - label: "Staff"
         name: "people"
-        file: "data/people.yaml"
+        file: "content/data/people.yaml"
         fields:
           - {label: "Call", name: "call", widget: "string"}
           - {label: "Title", name: "title", widget: "string"}
