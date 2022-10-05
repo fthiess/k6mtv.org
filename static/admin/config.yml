@@ -42,8 +42,8 @@ collections:
     delete: false
     files:
       - label: "Calendar Events"
-        description: "Events to be listed on the site's calendar page"
-        folder: "data" # The path to the folder where the documents are stored
+        #description: "Events to be listed on the site's calendar page"
+        #folder: "data" # The path to the folder where the documents are stored
         name: "calendar"
         file: "data/calendar.yaml"
         fields:
