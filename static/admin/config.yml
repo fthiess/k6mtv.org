@@ -19,8 +19,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Draft", name: "draft", widget: "boolean", default: true, hint: "True = don't show online(?)"}
-      - {label: "Summary", name: "summary", widget: "string", hint: "Optional summary shown in list views"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, hint: "Flip right = set draft mode (won't be shown on website)"}
+      - {label: "Summary", name: "summary", widget: "text", hint: "Optional summary shown in list views (will be auto-generated if blank)"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "data"
     label: "Data Files"
@@ -28,15 +28,17 @@ collections:
     delete: false
     files:
       - label: "Calendar Events"
+        description: "Events to be listed on the site's calendar page"
+        folder: "data" # The path to the folder where the documents are stored
         name: "calendar"
         file: "data/calendar.yaml"
         fields:
           - {label: "Name", name: "name", widget: "string"}
-          - {label: "Type", name: "type", widget: "string"}
+          - {label: "Type", name: "type", widget: "string", hint: "Must be 'city', 'county', 'cert', 'react', or blank (other)"}
           - {label: "Date", name: "date", widget: "date"}
-          - {label: "Time", name: "time", widget: "string"}
-          - {label: "Link", name: "link", widget: "string"}
-          - {label: "Update", name: "update", widget: "string"}
+          - {label: "Time", name: "time", widget: "string", hint: "Must be in HHMM-HHMM form"}
+          - {label: "Link", name: "link", widget: "string", hint: "Optional; if present must be a valid URL for the event (e.g. 'https://...'"}
+          - {label: "Update", name: "update", widget: "string", hint: "Optional update (e.g. 'CANCELLED')"}
       - label: "Staff"
         name: "people"
         file: "data/people.yaml"
