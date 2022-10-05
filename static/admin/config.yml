@@ -38,14 +38,14 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "data"
     label: "Data Files"
-    create: false
-    delete: false
+    #create: false
+    #delete: false
     files:
       - label: "Calendar Events"
         #description: "Events to be listed on the site's calendar page"
         #folder: "data" # The path to the folder where the documents are stored
         name: "calendar"
-        file: "content/data/calendar.yaml"
+        file: "/data/calendar.yaml"
         fields:
           - {label: "Name", name: "name", widget: "string"}
           - {label: "Type", name: "type", widget: "string", hint: "Must be 'city', 'county', 'cert', 'react', or blank (other)"}
@@ -55,7 +55,7 @@ collections:
           - {label: "Update", name: "update", widget: "string", hint: "Optional update (e.g. 'CANCELLED')"}
       - label: "Staff"
         name: "people"
-        file: "content/data/people.yaml"
+        file: "/data/people.yaml"
         fields:
           - {label: "Call", name: "call", widget: "string"}
           - {label: "Title", name: "title", widget: "string"}
