@@ -5,7 +5,7 @@ draft: false
 summary: Operators are needed for Net Control (under a canopy near the parade
   start/finish), at water stops and mile markers, and as a bike sweeps, to
   support a live race at Shoreline Park.
-thumbnail: /uploads/2022-trailblaze-thumb-small.jpg
+thumbnail: /uploads/2022-trailblaze-thumb.jpg
 ---
 ### Trailblazer, Sunday morning, September 25, held at Shoreline Park
 
