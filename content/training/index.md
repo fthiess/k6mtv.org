@@ -8,12 +8,6 @@ menu:
     weight: 50
     name: "Training"
 ---
-## What's Missing
-
-- Flow chart of SCCo classes
-- Drills, exercises, nets
-- CERT
-
 
 ## Local Training and Presentations
 
