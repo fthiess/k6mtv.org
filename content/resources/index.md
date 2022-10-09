@@ -6,10 +6,12 @@ menu:
   main:
     weight: 90
 ---
-## Mountain View ARES/RACES Emergency Plan
+## Mountain View ARES/RACES Procedures
 
-The [Mountain View ARES Emergency Plan (2019-11-24)](static/docs/mtv-emergency-plan-20191124.pdf), describes procedures,
-resources, contact persons, and activation procedures to be followed in the event of an emergency.
+- The [Mountain View ARES Emergency Plan](static/docs/mtv-emergency-plan-20191124.pdf), describes procedures,
+resources, contact persons, and activation procedures to be followed in the event of an emergency. [2019-11-24]
+- [K6MTV Station Operations Guide](static/docs/20160111%20K6MTV%20Station%20Operations.pdf) gives an overview of radio room operations. [2016-01-11]
+- [Shift Supervisor Duties](static/docs/20200119%20Shift%20Supervisor%20Duties.docx) explains the responsibilities of the Shift Supervisor during weekly nets. [2020-01-19]
 
 ## Santa Clara County Frequency Lists for Programming Radios
 
