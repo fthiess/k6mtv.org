@@ -2,6 +2,7 @@
 title: "Jerry Haag, K6GAC"
 date: 2016-04-11
 draft: false
+summary: Jerry Haag died of a cerebral hemorrhage on April 11, 2016. He served the community as our ARES/RACES EC for 15 years. He was also past president of the Fire Associates of Santa Clara Valley and a former Fire Inspector for the San Jose Fire Department.
 thumbnail: "thumbnails/jerry-haag.jpg"
 ---
 Jerry Haag died of a cerebral hemorrhage on April 11, 2016.

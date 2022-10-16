@@ -2,6 +2,7 @@
 title: "Rudy Bahr, W6OWI"
 date: 2021-05-11
 draft: false
+summary: Rudy Bahr, W6OWI, AEC Mountain View, passed May 11.  He had been a member of Mountain View ARES for at least 20 years and had participated in many drills and training activities over the years.
 thumbnail: "thumbnails/rudy-bahr.webp"
 ---
 
