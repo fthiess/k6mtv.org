@@ -6,7 +6,7 @@ languageCode = "en-us"
 paginate = "10" # Number of posts per page on list pages (we override this on the homepage in themes/mainroad/layouts/index.html)
 theme = "mainroad"
 #enableGitInfo = true  # Use git repo commit info for Page.LastMod, instead front matter date
-googleAnalytics = "UA-168319-18" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "G-0HWYDRPSSX" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = ""
