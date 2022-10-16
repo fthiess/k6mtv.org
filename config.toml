@@ -3,7 +3,7 @@
 baseurl = "https://k6mtv.broadsky.net/"
 title = "ARES/RACES of Mountain View, CA"
 languageCode = "en-us"
-paginate = "3" # Number of posts per page on list pages
+paginate = "10" # Number of posts per page on list pages (we override this on the homepage in themes/mainroad/layouts/index.html)
 theme = "mainroad"
 #enableGitInfo = true  # Use git repo commit info for Page.LastMod, instead front matter date
 googleAnalytics = "UA-168319-18" # Enable Google Analytics by entering your tracking id
