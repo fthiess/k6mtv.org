@@ -48,22 +48,28 @@ googleAnalytics = "UA-168319-18" # Enable Google Analytics by entering your trac
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
 
+# Note that the links in the sidebar will be displayed in alphabetical order, regardless of order here
+
 [[Menus.links]]
-  Name = "Net Control Signup"
+  Name = "Monday Net Control Signup"
   URL = "/net-signup"
+
+[[Menus.links]]
+  Name = "Monday Net Roster"
+  URL = "/nets/20220220-mtv-roster.pdf"  # TODO: Make this a fixed reference so we don't need to change it when the roster changes
 
 [[Menus.links]]
   Name = "Santa Clara County ARES/RACES"
   URL = "http://scc-ares-races.org"
 
 [[Menus.links]]
-  Name = "SCCo ARES/RACES Training Schedule"
+  Name = "Santa Clara County Training Schedule"
   URL = "https://www.scc-ares-races.org/activities/events.php"
 
 [markup.goldmark.renderer]
   unsafe = false  # true = allow raw HTML in posts; dangerous unless there's tight control over posted content
 
-[deployment]
+[deployment]        # Not currently used because we're deploying via Github/Netlify
 [[deployment.targets]]
 name = "gcs"
 URL = "gs://k6mtv.broadsky.net"
