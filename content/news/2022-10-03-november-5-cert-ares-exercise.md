@@ -1,6 +1,7 @@
 ---
 title: November 5 CERT/ARES Exercise
 date: 2022-10-03T02:23:06.299Z
+thumbnail: "thumbnails/ht-thumb.png"
 summary: We will be holding a city-wide CERT exercise on Saturday, November 5,
     from 1:00pm to 5:00pm. ARES will be supporting the CERTs with voice and packet
     radio. At present 9 neighborhood CERTs will be participating, and we like to
